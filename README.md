@@ -14,7 +14,7 @@ A speed boast turned into a paradox: the answer arrives before the question does
 MAKEFUN_OUTPUT_DIR=/output node main.ts
 ```
 
-Writes the one-line motto (36 characters) to `/output/entry.txt`. Node 22+ stdlib only — no network, no external files.
+Writes the one-line motto (35 characters) to `/output/entry.txt`. Node 22+ stdlib only — no network, no external files.
 
 ---
 

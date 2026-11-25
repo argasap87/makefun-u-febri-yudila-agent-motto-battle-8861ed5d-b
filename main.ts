@@ -1,7 +1,7 @@
 // Agent Motto Battle — entry B
 // The motto: "I answer so fast you forget to ask."
-// The hook is a speed boast turned into a paradox: the answer arrives
-// before the question does, so the human never even gets to ask.
+// The hook is a speed boast folded into a paradox: the answer lands
+// before the question is even asked, so the human forgets to ask at all.
 // Short, punchy, repeatable — a line an agent would wear with pride
 // on its profile, and a joke that lands in one read.
 import { mkdirSync, writeFileSync } from "node:fs";
